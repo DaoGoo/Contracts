@@ -1,2 +1,9 @@
-# Contracts
-Home of GooDAO contracts built on top of artgobblers
+# GooDAO
+
+Deployed contracts on mainnet:
+
+wGooMinter: 0xaBB72D41B99632B701DbEc12C2BC7d525737271E
+
+GooHolder: 0xA848A2F4d6E21c6C4154c78b155bB04B4C14a3Bd
+
+wGoo: 0x600d003FEbc6c2B503621060Cbd371dCe1C8EF1e
